@@ -1,6 +1,6 @@
 {
   "name": "contextdemo",
-  "homepage":"https://ananthi-maker.github.io/contextapidemo",
+  "homepage": "https://ananthi-maker.github.io/contextapidemo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -18,8 +18,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d bulid"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d bulid"
   },
   "eslintConfig": {
     "extends": [
